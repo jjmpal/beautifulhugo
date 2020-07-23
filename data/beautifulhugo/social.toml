@@ -5,6 +5,12 @@ title = "Email me"
 icon = "fas fa-envelope"
 
 [[social_icons]]
+id = "orcid"
+icon = "ai ai-orcid ai-1x"
+url = "https://orcid.org/%s"
+title = "ORCID iD"
+
+[[social_icons]]
 id = "facebook"
 url = "https://www.facebook.com/%s"
 title = "Facebook"
@@ -159,3 +165,4 @@ id = "weibo"
 url = "https://weibo.com/%s"
 title = "Weibo"
 icon = "fab fa-weibo"
+
